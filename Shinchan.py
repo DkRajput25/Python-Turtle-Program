@@ -10,7 +10,7 @@ def myPosition(x, y):
 #time.sleep(10)
 #ht()
 pensize(2)
-def ankur():
+def shinchan():
     fillcolor('#ffec40')
     begin_fill()
     right(25)
@@ -541,7 +541,7 @@ def allEyebrows():
 def allEyes():
     myallEyes1(17,275)
     myallEyes2(95,270)
-ankur()
+shinchan()
 allLegs()
 myShirt()
 myHead()
